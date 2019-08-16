@@ -1,0 +1,45 @@
+{
+  "name": "portfolio",
+  "description": "",
+  "main": "",
+  "license": "",
+  "keywords": [],
+  "homepage": "",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap3-wysihtml5-bower": "~0.3.3",
+    "bootstrap_calendar": "~1.0.1",
+    "jquery-inputlimiter": "https://github.com/mythril/jquery-inputlimiter.git",
+    "ModalWindowEffects": "*",
+    "themify-icons": "~0.1.2",
+    "jQuery-Validation-Engine": "~0.1.0",
+    "datatables-responsive": "~2.1.1",
+    "bootstrapValidator": "0.5.2",
+    "ionicons": "~1.5.2",
+    "fancybox": "~2.1.5",
+    "jquery.inputmask": "~3.3.3",
+    "hover": "~2.0.2",
+    "jquery.newsTicker": "https://github.com/risq/jquery-advanced-news-ticker.git",
+    "ihover": "~1.0.0",
+    "tooltip.js": "https://unpkg.com/tooltip.js",
+    "LC-switch":"https://github.com/LCweb-ita/LC-switch.git",
+    "jScrollPane":"https://github.com/vitch/jScrollPane.git",
+    "circliful": "~1.0.2",
+    "unitegallery": "~1.7.28"
+  },
+  "resolutions": {
+    "jquery": "~1.12.4",
+    "bootstrap": "4.0.0",
+    "d3": "~3.5.0"
+  }
+}
